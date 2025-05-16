@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Dark mode specific overrides -->
+    <color name="Primary_Colour">#121212</color>
+    <color name="Secondary">#0B6E4F</color>
+    <color name="Lite_Green">#1EBF80</color>
+    <color name="Lite_Green_Light">#1F9472</color>
+    <color name="Profile_Page">#1A1A1A</color>
+
+    <!-- 🆕 Card background for dark mode -->
+    <color name="cardBackground">#2C2C2E</color> <!-- Mid-tone slate for cards -->
+
+    <!-- Text and backgrounds -->
+    <color name="black">#FFFFFF</color>   <!-- used for text in dark -->
+    <color name="white">#121212</color>   <!-- used for backgrounds -->
+
+    <!-- Accent and alerts -->
+    <color name="red">#FF6E6E</color>
+    <color name="yellow">#FFD858</color>
+    <color name="green">#81C784</color>
+    <color name="grey_dark">#CCCCCC</color>
+    <color name="grey_hint">#999999</color>
+    <color name="hint_text">#AAAAAA</color>
+
+    <color name="warning_yellow_bg">#4F4300</color>
+    <color name="alert_red_text">#FF5252</color>
+
+    <!-- Semantic colors -->
+    <color name="expense_text">#FF8A80</color>
+    <color name="income_text">#A5D6A7</color>
+    <color name="budget_text">#FFE082</color>
+
+    <!-- Buttons -->
+    <color name="export_green">#4CAF50</color>
+    <color name="import_blue">#2196F3</color>
+
+    <!-- Login Sign up Buttons -->
+    <color name="sign_btn">#EBFEFE</color>
+
+
+
+    <color name="pie_legend_color">#FFFFFF</color> <!-- White for dark theme -->
+
+    <color name="primaryButtonBackground">#FFFFFF</color>
+    <color name="primaryButtonText">#0F4C3A</color> <!-- or your dark green -->
+
+
+
+</resources>

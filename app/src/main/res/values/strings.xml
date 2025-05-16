@@ -1,0 +1,73 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Smart Expense</string>
+
+    <!-- Hints and Inputs -->
+    <string name="hint_full_name">Enter your full name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_pass">Enter your password</string>
+    <string name="hint_budget">Enter your monthly budget</string>
+    <string name="hint_budget_max">💡 Max: Rs %1$.2f</string>
+    <string name="placeholder_search">Search here...</string>
+
+    <!-- Budget Labels -->
+    <string name="label_total_budget">Total Budget</string>
+    <string name="label_total_spent">Total Spent</string>
+    <string name="label_remaining">Remaining</string>
+    <string name="label_percent_used">%1$d%% used</string>
+    <string name="label_recent_transactions">Recent transactions</string>
+
+    <!-- Budget Validation -->
+    <string name="msg_budget_invalid">Please enter a valid budget amount.</string>
+    <string name="msg_budget_exceed">Budget cannot exceed total income (Rs %1$.2f)</string>
+    <string name="msg_enter_budget">Enter a valid budget</string>
+    <string name="warning_budget_limit">⚠️ You are nearing your budget limit!</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Buttons -->
+    <string name="btn_set_budget">Set Budget</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Fragment Labels -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string-array name="income_category_array">
+        <item>Salary</item>
+        <item>Bonus</item>
+        <item>Investment</item>
+        <item>Gift</item>
+        <item>Other Income</item>
+    </string-array>
+
+    <string-array name="currency_options">
+        <item>LKR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+    </string-array>
+
+
+
+    <string-array name="expense_category_array">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Others</item>
+    </string-array>
+
+
+
+    <!-- Misc -->
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</string>
+</resources>

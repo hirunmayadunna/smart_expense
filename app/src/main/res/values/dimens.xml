@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="transaction_text_size">16sp</dimen>
+    <dimen name="transaction_icon_size">20dp</dimen>
+    <dimen name="transaction_spacing">8dp</dimen>
+</resources>

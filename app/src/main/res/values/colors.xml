@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- ✅ Fixed colors (won't change in dark mode) -->
+    <color name="onboard_primary">#EBFEFE</color>
+    <color name="onboard_green">#2D6A4F</color>
+    <color name="onboard_button">#0B6E4F</color>
+    <color name="onboard_accent">#1EBF80</color>
+
+    <!-- ✅ Theme-aware base colors -->
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">@color/Secondary</color>
+
+    <!-- ✅ Shared reusable app colors -->
+    <color name="Primary_Colour">#EBFEFE</color>
+    <color name="Secondary">#0B6E4F</color>
+    <color name="Lite_Green">#1EBF80</color>
+    <color name="Lite_Green_Light">#ABE7C8</color>
+    <color name="Profile_Page">#6BDDA1</color>
+    <color name="cardBackground">#FFFFFF</color> <!-- ✨ Light mode card background -->
+
+    <!-- ✅ Text and label colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0004</color>
+    <color name="yellow">#FFD858</color>
+    <color name="green">#2E7D32</color>
+    <color name="grey_dark">#555555</color>
+    <color name="grey_hint">#B0B0B0</color>
+    <color name="hint_text">#999999</color>
+
+    <!-- ✅ Alert and warning states -->
+    <color name="warning_yellow_bg">#FFF9C4</color>
+    <color name="alert_red_text">#DE2123</color>
+
+    <!-- ✅ Semantic role-based text colors -->
+    <color name="expense_text">#B71C1C</color>
+    <color name="income_text">#1B5E20</color>
+    <color name="budget_text">#F57F17</color>
+
+    <!-- ✅ Buttons -->
+    <color name="export_green">#4CAF50</color>
+    <color name="import_blue">#2196F3</color>
+
+    <!-- Login Sign up Buttons -->
+    <color name="sign_btn">#EBFEFE</color>
+
+
+    <color name="pie_legend_color">#000000</color> <!-- Black for light theme -->
+
+    <color name="primaryButtonBackground">#0B6E4F</color> <!-- Dark Green Background -->
+    <color name="primaryButtonText">#FFFFFF</color>        <!-- White Text -->
+
+
+</resources>
